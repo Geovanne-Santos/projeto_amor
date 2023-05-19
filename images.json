@@ -1,76 +1,128 @@
 {
     "images": [
       {
-        "src": "assets/img/img-1.jpg"
+        "src": "assets/img/img-1.jpg",
+        "description": "Esse foi o primeiro de muitos natais que passamos juntos, e também foi o melhor que eu já tive, eu tenho uma carinho muito grande por essa foto porque você está muito fofa nela."
       },
       {
-        "src": "assets/img/img-2.jpg"
+        "src": "assets/img/img-2.jpg",
+        "description": " Essa foto foi tirada quando a na estação, nesse dia a gente estava sozinhos indo para casa, eu lembro que a gente tinha uma pulseirinha que o Hoender deu para a gente de Setembro Amarelo. Eu gosto do fato que a iluminação deixou seu cabelo muito lindo  nessa foto. "
       },
       {
-        "src": "assets/img/img-3.jpg"
+        "src": "assets/img/img-3.jpg",
+        "description": " Nessa foto a gente assistiu o jogo do Brasil na Copa juntos, e foi a primeira vez que assistimos Copa juntos, foi divertido, gosto sempre de ver essa foto porque eu vejo o jeito que você está me olhando, acho lindo. " 
       },
       {
-        "src": "assets/img/img-4.jpg"
+        "src": "assets/img/img-4.jpg",
+        "description": " Essa foi a primeira vez que tomamos milkshakes juntos!! Mal sabia a gente que seria o início de um vício nosso por um tempo, toda semana a gente tomava um milkshake na Tibidabo. "
       },
       {
-        "src": "assets/img/img-5.jpg"
+        "src": "assets/img/img-5.jpg",
+        "description": " É você deitada junto com pequeno Vincente, o caçulina da Isadora, é muito neném meu Deus. (Nesse dia a gente assistiu Forrest Gump, filme muito bom aliás) "
       },
       {
-        "src": "assets/img/img-6.jpg"
+        "src": "assets/img/img-6.jpg",
+        "description": " Nesse dia, se eu não me engano a gente havia marcado para se ver no shopping só para tomar milkshake e ir para sua casa depois, te acho muito linda sempre que te vejo nessa foto. "
       },
       {
-        "src": "assets/img/img-7.jpg"
+        "src": "assets/img/img-7.jpg",
+        "description": " Eu lembro que nesse dia a gente tava com muita fome, e você tava comendo as batatas com milkshake ao mesmo tempo de tanta fome que tava, depois disso a gente foi para a casa da Isa começar a ver Daisy Jones and The Six. "
       },
       {
-        "src": "assets/img/img-8.jpg"
+        "src": "assets/img/img-8.jpg",
+        "description": " Somos nós, momentos antes de começar a assistir Daisy Jones and The Six, sério, que serie boa. "
       },
       {
-        "src": "assets/img/img-9.jpg"
+        "src": "assets/img/img-9.jpg",
+        "description": " Isso foi no aniversário do meu pai, foi a primeira vez que saímos juntos com eles, foi muito legal, eu gostei muito. (lembrando aqui que eu fiquei muito doente depois desse dia, não sei o porque até hoje) "
       },
       {
-        "src": "assets/img/img-10.jpg"
+        "src": "assets/img/img-10.jpg",
+        "description": " Apenas mais uma dia normal da gente voltando para casa no trem (provavelmente em um assento preferencial), acho muito fofo as fotos suas com a camera posicionada desse jeito. "
       },
       {
-        "src": "assets/img/img-11.jpg"
+        "src": "assets/img/img-11.jpg",
+        "description": " Essa é uma das minhas fotos favoritas nossa, acho muito lindo o sorrisinho espontâneo que a gente dá nessa foto, e do fato dos dois estarem usando suéteres. "
       },
       {
-        "src": "assets/img/img-12.jpg"
+        "src": "assets/img/img-12.jpg",
+        "description": " Eu não me lembro muito bem o que a gente tava fazendo, mas eu sei que a gente estava na casa antiga da Isa, e a gente estava de férias nesse dia, e a gente ia ver filmes! "
       },
       {
-        "src": "assets/img/img-13.jpg"
+        "src": "assets/img/img-13.jpg",
+        "description": " Eu adoro essa foto, o efeito mais a luminosidade deixou a foto bonitona, eu tenho muito carinho por ela. Sinto saudades de tomar banho de sol com você na escola. "
       },
       {
-        "src": "assets/img/img-14.jpg"
+        "src": "assets/img/img-14.jpg",
+        "description": " Essa foto, sendo sincero, eu não gosto de mim nessa foto, me acho muito estranho, mas eu gosto do fato de que estavamos muito felizes nela, e de como você sente um carinho muito grande por ela. "
       },
       {
-        "src": "assets/img/img-15.jpg"
+        "src": "assets/img/img-15.jpg",
+        "description": " Apenas uma foto da mulher mais linda desse mundo. Apenas. (detalhe do feat do braço do Igor ali do lado) "
       },
       {
-        "src": "assets/img/img-16.jpg"
+        "src": "assets/img/img-16.jpg",
+        "description": " Esse dia foi o casamento do seu primo Gustavo, eu apenas amo como você está nessa foto, nesse dia você estava muito linda com o vestido que estava, eu adorei o conceito que nois dois passamos juntos nesse dia. "
       },
       {
-        "src": "assets/img/img-17.jpg"
+        "src": "assets/img/img-17.jpg",
+        "description": " Esse foi o dia da SPF do ano passado, foi muito bom, eu estava fantasiado de Chico Bento e você estava fantasiada de você mesmo, o que significa que estava fantasiada de mulher muito bonita. Lembro também nesse dia que você cantou Robocop gay, foi muito bom. "
       },
       {
-        "src": "assets/img/img-18.jpg"
+        "src": "assets/img/img-18.jpg",
+        "description": " Mais um dia da gente voltando para casa depois de um dia de aula, saudades de sorrir assim depois de um dia chato. "
       },
       {
-        "src": "assets/img/img-19.jpg"
+        "src": "assets/img/img-19.jpg",
+        "description": " A gente tirando uma foto enquanto espera sua mãe te buscar, e nossa, você ficou lindona nessa foto. "
       },
       {
-        "src": "assets/img/img-20.jpg"
+        "src": "assets/img/img-20.jpg",
+        "description": " Eu fico com raiva, toda santa vez que você fala que você está feia nessa foto, você está lindona e muito fofa nessa foto, sua ridícula! "
       },
       {
-        "src": "assets/img/img-21.jpg"
+        "src": "assets/img/img-21.jpg",
+        "description": " Amo muito essa foto, você estava gatona nesse dia, foi o aniversário do João, a gente foi nos Barbixas, foi a primeira vez que fui na Paulista e em um show de Stand up. "
       },
       {
-        "src": "assets/img/img-22.jpg"
+        "src": "assets/img/img-22.jpg",
+        "description": " Oh amor, esse foi um dos meus dias favoritos na vida, eu entreguei a nossa aliança nesse dia, a gente viu filme, comeu no parque Celso Daniel, e passeamos muito nesse dia também. "
       },
       {
-        "src": "assets/img/img-23.jpg"
+        "src": "assets/img/img-23.jpg",
+        "description": " Eu acho muito legal que eu não esperava essa foto kkkkk, mas eu adorei essa foto, eu apertando seus bochechos. "
       },
       {
-        "src": "assets/img/img-24.jpg"
+        "src": "assets/img/img-24.jpg",
+        "description": " Nessa hora a gente tava assistindo Forrest Gump, melhor filme, sério, esse dia foi muito bom também. "
+      },
+      {
+        "src": "assets/img/img-25.jpg",
+        "description": " Esse foi no dia seguinte das eleições, inclusive as eleições foi muito bom, nunca comemorei tanto em um dia festivo quanto aquele "
+      },
+      {
+        "src": "assets/img/img-26.jpg",
+        "description": " Nesse dia a gente dançou naquele forró de Santo André, e a gente deu um role muito legal amor. "
+      },
+      {
+        "src": "assets/img/img-27.jpg",
+        "description": " Meu amor, com um neném (o Fred no caso). "
+      },
+      {
+        "src": "assets/img/img-28.jpg",
+        "description": " Mais uma foto do meu amor com o seu neném. "
+      },
+      {
+        "src": "assets/img/img-29.jpg",
+        "description": " Essa é umas das minhas fotos favoritas, a gente está bonitão nessa foto, principalmente você. "
+      },
+      {
+        "src": "assets/img/img-30.jpg",
+        "description": " Adoro essas fotos que você tira com os gatinhos, eu tenho muito carinho pelo Vivi ele é tão pequeno e fofo. (feat braço do Igor) "
+      },
+      {
+        "src": "assets/img/img-31.jpg",
+        "description": " Essa foi a primeira foto nossa depois da gente cortar o cabelo, eu gostei muito do seu cabelo curto, eu estanhei o meu no começo, mas depois que deu uma crescidinha senti que ficou muito bonito. "
       }
     ]
   }
